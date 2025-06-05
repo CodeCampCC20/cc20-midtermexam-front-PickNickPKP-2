@@ -1,0 +1,8 @@
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+boby {
+  box-sizing: border-box;
+  margin: auto;
+}
